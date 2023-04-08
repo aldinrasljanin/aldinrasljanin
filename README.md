@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aldinrasljanin.
 - 👀 I’m interested in working on website etc.
-- 🌱 I’m currently learning JavaScript.
-- 🧠 I know Python, HTML and CSS.
+- 🌱 I’m currently learning React js.
+- 🧠 I know JavaScript, Python, HTML and CSS.
 - 💞️ I’m looking to collaborate on project.
 - 📫 How to reach me rasljaninaldin2005@gmail.com or +381638330652
 
